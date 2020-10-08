@@ -161,7 +161,7 @@ namespace bQuit
                             life = lifePercent;
                         }
 
-                        if (life <= 90)
+                        if (life <= 40)
                         {
                             Quit();
                         }
